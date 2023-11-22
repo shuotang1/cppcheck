@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="508f6842-5d76-4b01-957f-2d9cb95bc1c7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../KXMLReader.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../KXMLReader.vcxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KXMLReader.vcxproj.filters" beforeDir="false" afterPath="$PROJECT_DIR$/../../KXMLReader.vcxproj.filters" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kmainwindow.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../kmainwindow.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kmainwindow.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../kmainwindow.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kpullcodewin.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../kpullcodewin.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kpullcodewin.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../kpullcodewin.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kxmlreader.qrc" beforeDir="false" afterPath="$PROJECT_DIR$/../../kxmlreader.qrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kxmlreader_zh.qm" beforeDir="false" afterPath="$PROJECT_DIR$/../../kxmlreader_zh.qm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kxmlreader_zh.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../kxmlreader_zh.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python312/_asyncio.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python312/_bz2.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python312/_ctypes.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python312/_decimal.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python312/_elementtree.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python312/_hashlib.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python312/_lzma.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python312/_msi.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python312/_multiprocessing.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python312/_overlapped.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python312/_queue.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python312/_socket.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python312/_sqlite3.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python312/_ssl.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python312/_uuid.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python312/_wmi.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python312/_zoneinfo.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python312/build.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python312/cppchecktype.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python312/libcrypto-3.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python312/libffi-8.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python312/libssl-3.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python312/output.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python312/pyexpat.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python312/python.cat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python312/python312._pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python312/python312.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python312/result.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python312/select.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python312/sqlite3.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python312/unicodedata.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python312/winsound.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wpsgogsgit/orgExistMain.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../wpsgogsgit/orgExistMain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wpsgogsgit/userCreateMain.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../wpsgogsgit/userCreateMain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wpsgogsgit/venv/temp/lishiyu3/readme.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2RgjWukhSzYoFTu8tYWJdsKqLVv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="createGogsAccount" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="wpsgogsgit" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/createGogsAccount.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="createGogsProject" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="wpsgogsgit" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/createGogsProject.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="createOrgProject" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="wpsgogsgit" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12 (pythonProject)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/createOrgProject.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="loadcode" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="wpsgogsgit" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/loadcode.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="wpsgogsgit" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.createGogsProject" />
+        <item itemvalue="Python.createGogsAccount" />
+        <item itemvalue="Python.loadcode" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="508f6842-5d76-4b01-957f-2d9cb95bc1c7" name="Changes" comment="" />
+      <created>1687678653867</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687678653867</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/Lib/site-packages/gogs_client/entities.py</url>
+          <line>104</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

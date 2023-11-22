@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<results version="2">
+    <cppcheck version="2.12.0"/>
+    <errors>
+Checking D:\test1\chenhao21-Kextensibility-Task\inner.cpp ...
+Defines:
+Undefines:
+Includes:
+Platform:win64
+        <error id="constParameterPointer" severity="style" msg="Parameter &apos;args&apos; can be declared as pointer to const" verbose="Parameter &apos;args&apos; can be declared as pointer to const" cwe="398" file0="D:/test1/chenhao21-Kextensibility-Task/inner.cpp">
+            <location file="D:\test1\chenhao21-Kextensibility-Task\inner.cpp" line="4" column="33" info="Parameter &apos;args&apos; can be declared as pointer to const"/>
+            <symbol>args</symbol>
+        </error>
+        <error id="constParameterPointer" severity="style" msg="Parameter &apos;args&apos; can be declared as pointer to const" verbose="Parameter &apos;args&apos; can be declared as pointer to const" cwe="398" file0="D:/test1/chenhao21-Kextensibility-Task/inner.cpp">
+            <location file="D:\test1\chenhao21-Kextensibility-Task\inner.cpp" line="12" column="35" info="Parameter &apos;args&apos; can be declared as pointer to const"/>
+            <symbol>args</symbol>
+        </error>
+        <error id="constParameterPointer" severity="style" msg="Parameter &apos;args&apos; can be declared as pointer to const" verbose="Parameter &apos;args&apos; can be declared as pointer to const" cwe="398" file0="D:/test1/chenhao21-Kextensibility-Task/inner.cpp">
+            <location file="D:\test1\chenhao21-Kextensibility-Task\inner.cpp" line="21" column="37" info="Parameter &apos;args&apos; can be declared as pointer to const"/>
+            <symbol>args</symbol>
+        </error>
+Checking D:\test1\chenhao21-Kextensibility-Task\inner.cpp: INNER_DLL...
+1/11 files checked 4% done
+Checking D:\test1\chenhao21-Kextensibility-Task\kexecutor.cpp ...
+Defines:
+Undefines:
+Includes:
+Platform:win64
+        <error id="nullPointerRedundantCheck" severity="warning" msg="Either the condition &apos;instance!=nullptr&apos; is redundant or there is possible null pointer dereference: instance." verbose="Either the condition &apos;instance!=nullptr&apos; is redundant or there is possible null pointer dereference: instance." cwe="476" file0="D:/test1/chenhao21-Kextensibility-Task/kexecutor.cpp">
+            <location file="D:\test1\chenhao21-Kextensibility-Task\kexecutor.cpp" line="101" column="41" info="Null pointer dereference"/>
+            <location file="D:\test1\chenhao21-Kextensibility-Task\kexecutor.cpp" line="103" column="13" info="Assuming that condition &apos;instance!=nullptr&apos; is not redundant"/>
+            <symbol>instance</symbol>
+        </error>
+        <error id="cstyleCast" severity="style" msg="C-style pointer casting" verbose="C-style pointer casting detected. C++ offers four different kinds of casts as replacements: static_cast, const_cast, dynamic_cast and reinterpret_cast. A C-style cast could evaluate to any of those automatically, thus it is considered safer if the programmer explicitly states which kind of cast is expected." cwe="398" file0="D:/test1/chenhao21-Kextensibility-Task/kexecutor.cpp">
+            <location file="D:\test1\chenhao21-Kextensibility-Task\kexecutor.cpp" line="66" column="24"/>
+        </error>
+        <error id="cstyleCast" severity="style" msg="C-style pointer casting" verbose="C-style pointer casting detected. C++ offers four different kinds of casts as replacements: static_cast, const_cast, dynamic_cast and reinterpret_cast. A C-style cast could evaluate to any of those automatically, thus it is considered safer if the programmer explicitly states which kind of cast is expected." cwe="398" file0="D:/test1/chenhao21-Kextensibility-Task/kexecutor.cpp">
+            <location file="D:\test1\chenhao21-Kextensibility-Task\kexecutor.cpp" line="101" column="26"/>
+        </error>
+        <error id="unreadVariable" severity="style" msg="Variable &apos;argSize&apos; is assigned a value that is never used." verbose="Variable &apos;argSize&apos; is assigned a value that is never used." cwe="563" file0="D:/test1/chenhao21-Kextensibility-Task/kexecutor.cpp">
+            <location file="D:\test1\chenhao21-Kextensibility-Task\kexecutor.cpp" line="76" column="14"/>
+            <symbol>argSize</symbol>
+        </error>
+2/11 files checked 22% done
+Checking D:\test1\chenhao21-Kextensibility-Task\kexpressioncalculate.cpp ...
+Defines:
+Undefines:
+Includes:
+Platform:win64
+        <error id="cstyleCast" severity="style" msg="C-style pointer casting" verbose="C-style pointer casting detected. C++ offers four different kinds of casts as replacements: static_cast, const_cast, dynamic_cast and reinterpret_cast. A C-style cast could evaluate to any of those automatically, thus it is considered safer if the programmer explicitly states which kind of cast is expected." cwe="398" file0="D:/test1/chenhao21-Kextensibility-Task/kexpressioncalculate.cpp">
+            <location file="D:\test1\chenhao21-Kextensibility-Task\kexpressioncalculate.cpp" line="45" column="29"/>
+        </error>
+3/11 files checked 43% done
+Checking D:\test1\chenhao21-Kextensibility-Task\kinnerregister.cpp ...
+Defines:
+Undefines:
+Includes:
+Platform:win64
+        <error id="cstyleCast" severity="style" msg="C-style pointer casting" verbose="C-style pointer casting detected. C++ offers four different kinds of casts as replacements: static_cast, const_cast, dynamic_cast and reinterpret_cast. A C-style cast could evaluate to any of those automatically, thus it is considered safer if the programmer explicitly states which kind of cast is expected." cwe="398" file0="D:/test1/chenhao21-Kextensibility-Task/kinnerregister.cpp">
+            <location file="D:\test1\chenhao21-Kextensibility-Task\kinnerregister.cpp" line="24" column="24"/>
+        </error>
+        <error id="cstyleCast" severity="style" msg="C-style pointer casting" verbose="C-style pointer casting detected. C++ offers four different kinds of casts as replacements: static_cast, const_cast, dynamic_cast and reinterpret_cast. A C-style cast could evaluate to any of those automatically, thus it is considered safer if the programmer explicitly states which kind of cast is expected." cwe="398" file0="D:/test1/chenhao21-Kextensibility-Task/kinnerregister.cpp">
+            <location file="D:\test1\chenhao21-Kextensibility-Task\kinnerregister.cpp" line="25" column="26"/>
+        </error>
+        <error id="cstyleCast" severity="style" msg="C-style pointer casting" verbose="C-style pointer casting detected. C++ offers four different kinds of casts as replacements: static_cast, const_cast, dynamic_cast and reinterpret_cast. A C-style cast could evaluate to any of those automatically, thus it is considered safer if the programmer explicitly states which kind of cast is expected." cwe="398" file0="D:/test1/chenhao21-Kextensibility-Task/kinnerregister.cpp">
+            <location file="D:\test1\chenhao21-Kextensibility-Task\kinnerregister.cpp" line="26" column="28"/>
+        </error>
+        <error id="cstyleCast" severity="style" msg="C-style pointer casting" verbose="C-style pointer casting detected. C++ offers four different kinds of casts as replacements: static_cast, const_cast, dynamic_cast and reinterpret_cast. A C-style cast could evaluate to any of those automatically, thus it is considered safer if the programmer explicitly states which kind of cast is expected." cwe="398" file0="D:/test1/chenhao21-Kextensibility-Task/kinnerregister.cpp">
+            <location file="D:\test1\chenhao21-Kextensibility-Task\kinnerregister.cpp" line="27" column="28"/>
+        </error>
+4/11 files checked 48% done
+Checking D:\test1\chenhao21-Kextensibility-Task\kmainwindow.cpp ...
+Defines:
+Undefines:
+Includes:
+Platform:win64
+        <error id="unknownMacro" severity="error" msg="There is an unknown macro here somewhere. Configuration is required. If slots is a macro then please configure it." verbose="There is an unknown macro here somewhere. Configuration is required. If slots is a macro then please configure it." file0="D:/test1/chenhao21-Kextensibility-Task/kmainwindow.cpp">
+            <location file="D:\test1\chenhao21-Kextensibility-Task\kmainwindow.h" line="26" column="9"/>
+        </error>
+5/11 files checked 62% done
+Checking D:\test1\chenhao21-Kextensibility-Task\kouterregister.cpp ...
+Defines:
+Undefines:
+Includes:
+Platform:win64
+        <error id="noCopyConstructor" severity="warning" msg="Class &apos;KOuterRegister&apos; does not have a copy constructor which is recommended since it has dynamic memory/resource allocation(s)." verbose="Class &apos;KOuterRegister&apos; does not have a copy constructor which is recommended since it has dynamic memory/resource allocation(s)." cwe="398" file0="D:/test1/chenhao21-Kextensibility-Task/kouterregister.cpp">
+            <location file="D:\test1\chenhao21-Kextensibility-Task\kouterregister.cpp" line="12" column="2"/>
+            <symbol>KOuterRegister</symbol>
+        </error>
+        <error id="noOperatorEq" severity="warning" msg="Class &apos;KOuterRegister&apos; does not have a operator= which is recommended since it has dynamic memory/resource allocation(s)." verbose="Class &apos;KOuterRegister&apos; does not have a operator= which is recommended since it has dynamic memory/resource allocation(s)." cwe="398" file0="D:/test1/chenhao21-Kextensibility-Task/kouterregister.cpp">
+            <location file="D:\test1\chenhao21-Kextensibility-Task\kouterregister.cpp" line="12" column="2"/>
+            <symbol>KOuterRegister</symbol>
+        </error>
+        <error id="noExplicitConstructor" severity="style" msg="Class &apos;KOuterRegister&apos; has a constructor with 1 argument that is not explicit." verbose="Class &apos;KOuterRegister&apos; has a constructor with 1 argument that is not explicit. Such, so called &quot;Converting constructors&quot;, should in general be explicit for type safety reasons as that prevents unintended implicit conversions." cwe="398" file0="D:/test1/chenhao21-Kextensibility-Task/kouterregister.cpp">
+            <location file="D:\test1\chenhao21-Kextensibility-Task\kouterregister.h" line="13" column="2"/>
+            <symbol>KOuterRegister</symbol>
+        </error>
+        <error id="cstyleCast" severity="style" msg="C-style pointer casting" verbose="C-style pointer casting detected. C++ offers four different kinds of casts as replacements: static_cast, const_cast, dynamic_cast and reinterpret_cast. A C-style cast could evaluate to any of those automatically, thus it is considered safer if the programmer explicitly states which kind of cast is expected." cwe="398" file0="D:/test1/chenhao21-Kextensibility-Task/kouterregister.cpp">
+            <location file="D:\test1\chenhao21-Kextensibility-Task\kouterregister.cpp" line="25" column="21"/>
+        </error>
+        <error id="cstyleCast" severity="style" msg="C-style pointer casting" verbose="C-style pointer casting detected. C++ offers four different kinds of casts as replacements: static_cast, const_cast, dynamic_cast and reinterpret_cast. A C-style cast could evaluate to any of those automatically, thus it is considered safer if the programmer explicitly states which kind of cast is expected." cwe="398" file0="D:/test1/chenhao21-Kextensibility-Task/kouterregister.cpp">
+            <location file="D:\test1\chenhao21-Kextensibility-Task\kouterregister.cpp" line="29" column="35"/>
+        </error>
+6/11 files checked 65% done
+Checking D:\test1\chenhao21-Kextensibility-Task\kouterregistermanager.cpp ...
+Defines:
+Undefines:
+Includes:
+Platform:win64
+7/11 files checked 77% done
+Checking D:\test1\chenhao21-Kextensibility-Task\kregisterui.cpp ...
+Defines:
+Undefines:
+Includes:
+Platform:win64
+        <error id="unknownMacro" severity="error" msg="There is an unknown macro here somewhere. Configuration is required. If slots is a macro then please configure it." verbose="There is an unknown macro here somewhere. Configuration is required. If slots is a macro then please configure it." file0="D:/test1/chenhao21-Kextensibility-Task/kregisterui.cpp">
+            <location file="D:\test1\chenhao21-Kextensibility-Task\kregisterui.h" line="25" column="9"/>
+        </error>
+8/11 files checked 89% done
+Checking D:\test1\chenhao21-Kextensibility-Task\kresourcesingleton.cpp ...
+Defines:
+Undefines:
+Includes:
+Platform:win64
+9/11 files checked 98% done
+Checking D:\test1\chenhao21-Kextensibility-Task\main.cpp ...
+Defines:
+Undefines:
+Includes:
+Platform:win64
+10/11 files checked 98% done
+Checking D:\test1\chenhao21-Kextensibility-Task\outer.cpp ...
+Defines:
+Undefines:
+Includes:
+Platform:win64
+        <error id="constVariable" severity="style" msg="Variable &apos;str&apos; can be declared as const array" verbose="Variable &apos;str&apos; can be declared as const array" cwe="398" file0="D:/test1/chenhao21-Kextensibility-Task/outer.cpp">
+            <location file="D:\test1\chenhao21-Kextensibility-Task\outer.cpp" line="9" column="7" info="Variable &apos;str&apos; can be declared as const array"/>
+            <symbol>str</symbol>
+        </error>
+Checking D:\test1\chenhao21-Kextensibility-Task\outer.cpp: OUTER_DLL...
+11/11 files checked 100% done
+    </errors>
+</results>
+Active checkers: There was critical errors (use --checkers-report=<filename> to see details)
